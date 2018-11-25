@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1525244395 source:f:\study\nsu\cse 225\bank management system cse 225\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	"system.cpp"
+
+1525598763 f:\study\nsu\cse 225\bank management system cse 225\linkedlist.cpp
+	"linkedlist.h"
+
+1525598763 f:\study\nsu\cse 225\bank management system cse 225\linkedlist.h
+	"node.h"
+
+1525251957 f:\study\nsu\cse 225\bank management system cse 225\node.h
+	<algorithm>
+	<iostream>
+	<istream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<typeinfo>
+
+1525590079 f:\study\nsu\cse 225\bank management system cse 225\system.cpp
+	"system.h"
+
+1524992079 f:\study\nsu\cse 225\bank management system cse 225\system.h
+	"linkedlist.cpp"
+
